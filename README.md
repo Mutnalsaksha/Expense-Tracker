@@ -31,6 +31,5 @@ React Native
 - Webstrom
 ## How to run 
 
-bash
-Copy code
-npx expo start --tunnel
+- Clone the Repository
+- npx expo start --tunnel
